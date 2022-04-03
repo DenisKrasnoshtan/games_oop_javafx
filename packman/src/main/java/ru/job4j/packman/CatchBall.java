@@ -1,7 +1,6 @@
 package ru.job4j.packman;
 
 import javafx.application.Application;
-import javafx.event.Event;
 import javafx.scene.Scene;
 import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.Pane;
